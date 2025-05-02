@@ -1,6 +1,6 @@
 # Documentazione TechWave
 
-[![Main Coverage Status](https://coveralls.io/repos/github/tech-wave-swe/MVP/badge.svg?branch=main)](https://coveralls.io/github/tech-wave-swe/MVP?branch=main)
+[![Main Coverage Status](https://coveralls.io/repos/github/TechWaveSWE/MVP/badge.svg?branch=main)](https://coveralls.io/github/TechWaveSWE/MVP?branch=main)
 
 Questa repository contiene il codice sorgente del plugin **Requirements Tracker** di VSCode sviluppato durante il corso di Ingegneria del software dal gruppo TechWave.
 
